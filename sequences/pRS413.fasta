@@ -1,0 +1,176 @@
+ID   PRS413     preliminary; circular DNA; SYN; 4970 BP.
+XX
+AC   U03447; IG3015;
+XX
+DT   03-FEB-1994 (Rel. 8, Created)
+DT   01-JUL-1995 (Rel. 12, Last updated, Version 1)
+XX
+DE   Saccharomyces/E.coli phagemid vector pRS413 - complete.
+XX
+KW   cloning vector.
+XX
+OS   Cloning vector
+OC   Artificial sequences; Cloning vehicles.
+XX
+RN   [1]
+RP   1-4970
+RC   pRSS56 from pBluescript KS+ & BlueScribe
+RC   pRS303 from pRSS56 & HIS3 gene
+RC   pRS304 from pRSS56 & TRP1 gene
+RC   pRS305 from pRSS56 & LEU2 gene
+RC   pRS306 from pRSS56 & URA3 gene
+RC   pUC19-CEN6:32 from pUC19 & CEN6
+RC   pRSS83 from pUC19-CEN6:32 & pAB9, ARS
+RC   pRSS84 from pRSS83
+RC   pRS313 from pRS303 & pRSS84
+RC   pRS314 from pRS304 & pRSS84
+RC   pRS315 from pRS305 & pRSS84
+RC   pRS316 from pRS306 & pRSS84
+RC   pRSS93 from pRSS84 & pYCF5
+RA   Sikorski R.S., Hieter P.;
+RT   "A system of shuttle vectors and yeast host strains designed for
+RT   efficient manipulation of DNA in Saccharomyces cerevisiae";
+RL   Genetics 122:19-27(1989).
+XX
+RN   [2]
+RC   pRS413
+RA   Stillman D.J.;
+RT   ;
+RL   Submitted (10-NOV-1993) by:
+RL   Stillman D.J., Dept. of Cellular, Viral and Molecular Biology,
+RL   University of Utah Medical Center, Salt Lake City, UT 84132 USA.
+XX
+CC   Yeast Centromere Plasmid (YCp).
+CC   NCBI gi: 416318
+CC   NM (pRS403)
+CC   CM (yes)
+CC   NA (ds-DNA)
+CC   TP (circular)
+CC   ST ()
+CC   TY (phagemid)
+CC   SP (Stratagene)
+CC   HO (E.coli)(Saccharomyces cerevisiae YPH499 from YNN216/S288C)
+CC   HO (Saccharomyces cerevisiae YPH500 from YNN216/S288C)
+CC   HO (Saccharomyces cerevisiae YPH501 from YNN216/S288C)
+CC   CP ()
+CC   FN (cloning)(shuttle)(mutation)(insertion)
+CC   SE ()
+CC   PA (pBluescript II SK+)
+CC   BR (pRS414)(pRS415)(pRS416)
+CC   OF ()
+CC   OR ()
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   misc_feature    0..0
+FT                   /note="1. pRS313 4967bp
+FT                   linker
+FT                   -> pRS413 4970bp"
+FT   rep_origin      0..0
+FT                   /note="ORI bacteriophage f1"
+FT   CDS             0..0
+FT                   /note="ANT E. coli beta-lactamase gene (bla)
+FT                   ampicillin resistance gene (apr/amp)"
+FT   rep_origin      0..0
+FT                   /note="ORI E. coli pMB1 (ColE1 and pBR322)"
+FT   promoter        0..0
+FT                   /note="PRO bacteriophage T7"
+FT   promoter        0..0
+FT                   /note="PRO bacteriophage T3"
+FT   promoter        0..0
+FT                   /note="PRO E. coli lac gene"
+FT   CDS             0..0
+FT                   /note="GEN E. coli beta-galactosidase gene (lacZ);
+FT                   reporter gene"
+FT   rep_origin      0..0
+FT                   /note="ORI yeast 2 micron"
+FT   CDS             0..0
+FT                   /note="ANT yeast HIS3 gene"
+FT   misc_feature    0..0
+FT                   /note="yeast centromere CEN; ARS"
+XX
+SQ   Sequence 4970 BP; 1331 A; 1140 C; 1170 G; 1329 T; 0 other;
+     tcgcgcgttt cggtgatgac ggtgaaaacc tctgacacat gcagctcccg gagacggtca
+     cagcttgtct gtaagcggat gccgggagca gacaagcccg tcagggcgcg tcagcgcgtg
+     ttggcgggtg tcggggctgg cttaactatg cggcatcaga gcagattgta ctgagagtgc
+     accataaatt cccgttttaa gagcttggtg agcgctagga gtcactgcca ggtatcgttt
+     gaacacggca ttagtcaggg aagtcataac acagtccttt cccgcaattt tctttttcta
+     ttactcttgg cctcctctag tacactctat atttttttat gcctcggtaa tgattttcat
+     tttttttttt cccctagcgg atgactcttt ttttttctta gcgattggca ttatcacata
+     atgaattata cattatataa agtaatgtga tttcttcgaa gaatatacta aaaaatgagc
+     aggcaagata aacgaaggca aagatgacag agcagaaagc cctagtaaag cgtattacaa
+     atgaaaccaa gattcagatt gcgatctctt taaagggtgg tcccctagcg atagagcact
+     cgatcttccc agaaaaagag gcagaagcag tagcagaaca ggccacacaa tcgcaagtga
+     ttaacgtcca cacaggtata gggtttctgg accatatgat acatgctctg gccaagcatt
+     ccggctggtc gctaatcgtt gagtgcattg gtgacttaca catagacgac catcacacca
+     ctgaagactg cgggattgct ctcggtcaag cttttaaaga ggccctactg gcgcgtggag
+     taaaaaggtt tggatcagga tttgcgcctt tggatgaggc actttccaga gcggtggtag
+     atctttcgaa caggccgtac gcagttgtcg aacttggttt gcaaagggag aaagtaggag
+     atctctcttg cgagatgatc ccgcattttc ttgaaagctt tgcagaggct agcagaatta
+     ccctccacgt tgattgtctg cgaggcaaga atgatcatca ccgtagtgag agtgcgttca
+     aggctcttgc ggttgccata agagaagcca cctcgcccaa tggtaccaac gatgttccct
+     ccaccaaagg tgttcttatg tagtgacacc gattatttaa agctgcagca tacgatatat
+     atacatgtgt atatatgtat acctatgaat gtcagtaagt atgtatacga acagtatgat
+     actgaagatg acaaggtaat gcatcattct atacgtgtca ttctgaacga ggcgcgcttt
+     ccttttttct ttttgctttt tctttttttt tctcttgaac tcgacggatc tatgcggtgt
+     gaaataccgc acagatgcgt aaggagaaaa taccgcatca ggaaattgta aacgttaata
+     ttttgttaaa attcgcgtta aatttttgtt aaatcagctc attttttaac caataggccg
+     aaatcggcaa aatcccttat aaatcaaaag aatagaccga gatagggttg agtgttgttc
+     cagtttggaa caagagtcca ctattaaaga acgtggactc caacgtcaaa gggcgaaaaa
+     ccgtctatca gggcgatggc ccactacgtg aaccatcacc ctaatcaagt tttttggggt
+     cgaggtgccg taaagcacta aatcggaacc ctaaagggag cccccgattt agagcttgac
+     ggggaaagcc ggcgaacgtg gcgagaaagg aagggaagaa agcgaaagga gcgggcgcta
+     gggcgctggc aagtgtagcg gtcacgctgc gcgtaaccac cacacccgcc gcgcttaatg
+     cgccgctaca gggcgcgtcg cgccattcgc cattcaggct gcgcaactgt tgggaagggc
+     gatcggtgcg ggcctcttcg ctattacgcc agctggcgaa agggggatgt gctgcaaggc
+     gattaagttg ggtaacgcca gggttttccc agtcacgacg ttgtaaaacg acggccagtg
+     agcgcgcgta atacgactca ctatagggcg aattgggtac cgggcccccc ctcgaggtcg
+     acggtatcga taagcttgat atcgaattcc tgcagcccgg gggatccact agttctagag
+     cggccgccac cgcggtggag ctccagcttt tgttcccttt agtgagggtt aattgcgcgc
+     ttggcgtaat catggtcata gctgtttcct gtgtgaaatt gttatccgct cacaattcca
+     cacaacatag gagccggaag cataaagtgt aaagcctggg gtgcctaatg agtgaggtaa
+     ctcacattaa ttgcgttgcg ctcactgccc gctttccagt cgggaaacct gtcgtgccag
+     ctgcattaat gaatcggcca acgcgcgggg agaggcggtt tgcgtattgg gcgctcttcc
+     gcttcctcgc tcactgactc gctgcgctcg gtcgttcggc tgcggcgagc ggtatcagct
+     cactcaaagg cggtaatacg gttatccaca gaatcagggg ataacgcagg aaagaacatg
+     tgagcaaaag gccagcaaaa ggccaggaac cgtaaaaagg ccgcgttgct ggcgtttttc
+     cataggctcc gcccccctga cgagcatcac aaaaatcgac gctcaagtca gaggtggcga
+     aacccgacag gactataaag ataccaggcg tttccccctg gaagctccct cgtgcgctct
+     cctgttccga ccctgccgct taccggatac ctgtccgcct ttctcccttc gggaagcgtg
+     gcgctttctc atagctcacg ctgtaggtat ctcagttcgg tgtaggtcgt tcgctccaag
+     ctgggctgtg tgcacgaacc ccccgttcag cccgaccgct gcgccttatc cggtaactat
+     cgtcttgagt ccaacccggt aagacacgac ttatcgccac tggcagcagc cactggtaac
+     aggattagca gagcgaggta tgtaggcggt gctacagagt tcttgaagtg gtggcctaac
+     tacggctaca ctagaaggac agtatttggt atctgcgctc tgctgaagcc agttaccttc
+     ggaaaaagag ttggtagctc ttgatccggc aaacaaacca ccgctggtag cggtggtttt
+     tttgtttgca agcagcagat tacgcgcaga aaaaaaggat ctcaagaaga tcctttgatc
+     ttttctacgg ggtctgacgc tcagtggaac gaaaactcac gttaagggat tttggtcatg
+     agattatcaa aaaggatctt cacctagatc cttttaaatt aaaaatgaag ttttaaatca
+     atctaaagta tatatgagta aacttggtct gacagttacc aatgcttaat cagtgaggca
+     cctatctcag cgatctgtct atttcgttca tccatagttg cctgactccc cgtcgtgtag
+     ataactacga tacgggaggg cttaccatct ggccccagtg ctgcaatgat accgcgagac
+     ccacgctcac cggctccaga tttatcagca ataaaccagc cagccggaag ggccgagcgc
+     agaagtggtc ctgcaacttt atccgcctcc atccagtcta ttaattgttg ccgggaagct
+     agagtaagta gttcgccagt taatagtttg cgcaacgttg ttgccattgc tacaggcatc
+     gtggtgtcac gctcgtcgtt tggtatggct tcattcagct ccggttccca acgatcaagg
+     cgagttacat gatcccccat gttgtgcaaa aaagcggtta gctccttcgg tcctccgatc
+     gttgtcagaa gtaagttggc cgcagtgtta tcactcatgg ttatggcagc actgcataat
+     tctcttactg tcatgccatc cgtaagatgc ttttctgtga ctggtgagta ctcaaccaag
+     tcattctgag aatagtgtat gcggcgaccg agttgctctt gcccggcgtc aatacgggat
+     aataccgcgc cacatagcag aactttaaaa gtgctcatca ttggaaaacg ttcttcgggg
+     cgaaaactct caaggatctt accgctgttg agatccagtt cgatgtaacc cactcgtgca
+     cccaactgat cttcagcatc ttttactttc accagcgttt ctgggtgagc aaaaacagga
+     aggcaaaatg ccgcaaaaaa gggaataagg gcgacacgga aatgttgaat actcatactc
+     ttcctttttc aatattattg aagcatttat cagggttatt gtctcatgag cggatacata
+     tttgaatgta tttagaaaaa taaacaaata ggggttccgc gcacatttcc ccgaaaagtg
+     ccacctgggt ccttttcatc acgtgctata aaaataatta taatttaaat tttttaatat
+     aaatatataa attaaaaata gaaagtaaaa aaagaaatta aagaaaaaat agtttttgtt
+     ttccgaagat gtaaaagact ctagggggat cgccaacaaa tactaccttt tatcttgctc
+     ttcctgctct caggtattaa tgccgaattg tttcatcttg tctgtgtaga agaccacaca
+     cgaaaatcct gtgattttac attttactta tcgttaatcg aatgtatatc tatttaatct
+     gcttttcttg tctaataaat atatatgtaa agtacgcttt ttgttgaaat tttttaaacc
+     tttgtttatt tttttttctt cattccgtaa ctcttctacc ttctttattt actttctaaa
+     atccaaatac aaaacataaa aataaataaa cacagagtaa attcccaaat tattccatca
+     ttaaaagata cgaggcgcgt gtaagttaca ggcaagcgat ccgtcctaag aaaccattat
+     tatcatgaca ttaacctata aaaataggcg tatcacgagg ccctttcgtc
+//
