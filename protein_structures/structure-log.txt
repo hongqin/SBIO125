@@ -1,0 +1,8 @@
+alignment of yeast MSH2 to Ecoli MutS, PDB complex with DNA mismatch
+http://www.yeastgenome.org/cgi-bin/protein/get3d?locus=YOL090W&pdb=1E3M_A&align=1
+
+MSH2 PDB and complex with DNA mismatch repair
+http://www.rcsb.org/pdb/results/results.do?outformat=&qrid=2EB9A71A&tabtoshow=Current
+
+MSH2,MSH6 complex with DNA
+http://www.ncbi.nlm.nih.gov/structure?Db=structure&DbFrom=protein&Cmd=Link&LinkName=protein_structure&LinkReadableName=Structure&IdsFromResult=4557761
