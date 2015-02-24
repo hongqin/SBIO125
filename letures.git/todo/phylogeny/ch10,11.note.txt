@@ -1,0 +1,26 @@
+
+is life a coincidence?
+
+Louis Leaky
+Charles Darwin's regligioneous believes
+wikipedia transitional fossils, Tiktaalik (fish to amphibians)
+DNA Extracted From Woolly Mammoth Hair; http://www.sciencedaily.com/releases/2007/09/070927141921.htm
+
+key concepts
+
+ tree topology
+ newick format
+ ultrametric tree
+ rooted trees and unrooted trees
+ additive distance matrix
+
+ substitution models (Jukes Cantor model, Kimura 2-parameter model)
+ synonymous and nonsynonymous substitutions
+ +/- selection
+ mutation
+ fixation
+ divergence and polymorphism
+
+Example of selection on fixation:
+ iron coin, drop on a wall. then a magnet on one side of the wall. For the same mutation rate, fixation rate of advantageous mutation increases. 
+

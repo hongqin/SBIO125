@@ -1,0 +1,23 @@
+#Question Tris base MW 121.14 400ml 15 mM, how much gram? 
+gram_for_mM_mL <- function( x, y) { #x = concentration in mM y = volume in mL
+  121.14 * (x/10^3) * (y/10^3) # NaCl  
+  #58.433 * (x/10^3) * (y/10^3) # NaCl  
+}
+gram_for_mM_mL(400,15)
+
+gram_for_mM_mL2 <- function( conc, vol, FW) {
+  FW * conc * vol /10^6
+}
+gram_for_mM_mL2(400,15,121.14)
+
+gram_for_mM_mL3 <- function( conc, vol, name) {
+  FWs = c(58.443, 74.5513, 84.997, 40, 121.14)
+  names(FWs) = c('NaCl', 'KCl', 'NaNO3', 'NaOH', "Tris");
+  FW = FWs[name]
+  FW * conc * vol / 10^6
+}
+
+gram_for_mM_mL3(400,15,'Tris')
+gram_for_mM_mL3( 100, 1000, 'NaNO3' )
+gram_for_mM_mL3( 1000, 1000, 'NaCl' )
+

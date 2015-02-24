@@ -1,0 +1,69 @@
+>BAX WT
+tcacgtgacc cgggcgcgct gcggccgccc gcgcggaccc ggcgagaggc ggcggcggga
+gcggcggtga tggacgggtc cggggagcag cccagaggcg gggggcccac cagctctgag
+cagatcatga agacaggggc ccttttgctt cagggtttca tccaggatcg agcagggcga
+atgggggggg aggcacccga gctggccctg gacccggtgc ctcaggatgc gtccaccaag
+aagctgagcg agtgtctcaa gcgcatcggg gacgaactgg acagtaacat ggagctgcag
+aggatgattg ccgccgtgga cacagactcc ccccgagagg tctttttccg agtggcagct
+gacatgtttt ctgacggcaa cttcaactgg ggccgggttg tcgccctttt ctactttgcc
+agcaaactgg tgctcaaggc cctgtgcacc aaggtgccgg aactgatcag aaccatcatg
+ggctggacat tggacttcct ccgggagcgg ctgttgggct ggatccaaga ccagggtggt
+tgggtgagac tcctcaagcc tcctcacccc caccaccgcg ccctcaccac cgcccctgcc
+ccaccgtccc tgccccccgc cactcctctg ggaccctggg ccttctggag caggtcacag
+tggtgccctc tccccatctt cagatcatca gatgtggtct ataatgcgtt ttccttacgt
+gtctgatcaa tccccgattc atctaccctg ctgacctccc agtgacccct gacctcactg
+tgaccttgac ttgattagtg ccttctgccc tccctggagc ctccactgcc tctggaattg
+ctcaagttca ttgatgaccc tctgacccta gctctttcct tttttttttt t
+
+>bax mutant 1
+tcacgtgacc cgggcgcgct gcggccgccc gcgcggaccc ggcgagaggc ggcggcggga
+gcggcggtga tggacgggtc cggggagcag cccagaggcg gggggcccac cagctctgag
+cagatcatga agacaggggc ccttttgctt cagggtttca tccaggatcg agcagggcga
+atgggggggg aggcacccga gctggccctg gacccggtgc ctcaggatgc gtccaccaag
+aagctgagcg agtgtctcaa gcgcatcggg gacgaactgg acagtaacat ggagctgcag
+aggatgattg ccgccgtgga cacagactcc ccccgagagg tctttttccg agtggcagct
+gacatgtttt ctgacggcaa cttcaactgg ggccgggttg tcgccctttt ctactttgcc
+agcaaactgg tgctcaaggc cctgtgcacc taggtgccgg aactgatcag aaccatcatg
+ggctggacat tggacttcct ccgggagcgg ctgttgggct ggatccaaga ccagggtggt
+tgggtgagac tcctcaagcc tcctcacccc caccaccgcg ccctcaccac cgcccctgcc
+ccaccgtccc tgccccccgc cactcctctg ggaccctggg ccttctggag caggtcacag
+tggtgccctc tccccatctt cagatcatca gatgtggtct ataatgcgtt ttccttacgt
+gtctgatcaa tccccgattc atctaccctg ctgacctccc agtgacccct gacctcactg
+tgaccttgac ttgattagtg ccttctgccc tccctggagc ctccactgcc tctggaattg
+ctcaagttca ttgatgaccc tctgacccta gctctttcct tttttttttt t
+
+
+>bax mutant 2
+tcacgtgacc cgggcgcgct gcggccgccc gcgcggaccc ggcgagaggc ggcggcggga
+gcggcggtga tggacgggtc cggggagcag cccagaggcg gggggcccac cagctctgag
+cagatcatga agacaggggc ccttttgctt cagggtttca tccaggatcg agcagggcga
+atgggggggg aggcacccga gctggccctg gacccggtgc ctcaggatgc gtccaccaag
+aagctgagcg agtgtctcaa gcgcatcggg gacgaactgg acagtaacat ggagctgcag
+aggatgattg ccgccgtgga cacagactcc ccccgagagg tctttttccg agtggcagct
+gacatgtttt ctgacggcaa cttcaactgg ggccgggttg tcgccctttt ctactttgcc
+agcaaactgg tgctcaaggc cctgtgcacc atggtgccgg aactgatcag aaccatcatg
+ggctggacat tggacttcct ccgggagcgg ctgttgggct ggatccaaga ccagggtggt
+tgggtgagac tcctcaagcc tcctcacccc caccaccgcg ccctcaccac cgcccctgcc
+ccaccgtccc tgccccccgc cactcctctg ggaccctggg ccttctggag caggtcacag
+tggtgccctc tccccatctt cagatcatca gatgtggtct ataatgcgtt ttccttacgt
+gtctgatcaa tccccgattc atctaccctg ctgacctccc agtgacccct gacctcactg
+tgaccttgac ttgattagtg ccttctgccc tccctggagc ctccactgcc tctggaattg
+ctcaagttca ttgatgaccc tctgacccta gctctttcct tttttttttt t
+
+> bax mutant 3
+tcacgtgacc cgggcgcgct gcggccgccc gcgcggaccc ggcgagaggc ggcggcggga
+gcggcggtga tggacgggtc cggggagcag cccagaggcg gggggcccac cagctctgag
+cagatcatga agacaggggc ccttttgctt cagggtttca tccaggatcg agcagggcga
+atgggggggg aggcacccga gctggccctg gacccggtgc ctcaggatgc gtccaccaag
+aagctgagcg agtgtctcaa gcgcatcggg gacgaactgg acagtaacat ggagctgcag
+aggatgattg ccgccgtgga cacagactcc ccccgagagg tctttttccg agtggcagct
+gacatgtttt ctgacggcaa cttcaactgg ggccgggttg tcgccctttt ctactttgcc
+agcaaactgg tgctcaaggc cctgtgcacc aaagtgccgg aactgatcag aaccatcatg
+ggctggacat tggacttcct ccgggagcgg ctgttgggct ggatccaaga ccagggtggt
+tgggtgagac tcctcaagcc tcctcacccc caccaccgcg ccctcaccac cgcccctgcc
+ccaccgtccc tgccccccgc cactcctctg ggaccctggg ccttctggag caggtcacag
+tggtgccctc tccccatctt cagatcatca gatgtggtct ataatgcgtt ttccttacgt
+gtctgatcaa tccccgattc atctaccctg ctgacctccc agtgacccct gacctcactg
+tgaccttgac ttgattagtg ccttctgccc tccctggagc ctccactgcc tctggaattg
+ctcaagttca ttgatgaccc tctgacccta gctctttcct tttttttttt t
+
