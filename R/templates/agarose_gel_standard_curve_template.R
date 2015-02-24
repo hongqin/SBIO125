@@ -12,11 +12,11 @@ m = lm(log10(Sizeladder) ~ distance ); m
 abline(m, col='red') #put the linear model on the plot
 summary(m)
 
-unknownOD = c( 1.8, 7.2) #change here
+unknownDistance = c( 6.5, 2.7) #change here
 
-unknowConcentration = m$coef[1] + m$coef[2]*unknownOD
-points(unknownOD, unknowConcentration, pch=19, col="blue")
+unknownSize = m$coef[1] + m$coef[2]*unknownDistance
+points(unknownSize, unknownDistance, pch=19, col="blue")
 
-sizeofUnknown = 10^(unknowConcentration)
+sizeofUnknown = 10^(unknownSize)
 sizeofUnknown
 
