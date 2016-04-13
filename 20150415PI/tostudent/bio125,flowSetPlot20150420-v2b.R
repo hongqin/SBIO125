@@ -33,12 +33,10 @@ fs3 = Subset(fs2, my.filter)  #apply the gate-filter
 
 print(fs3)
  
-#pdf( "HQin,bio125-flow-report.pdf", width=6, height=4)
  densityplot(~ ., fs3, channels=c("FL2-H") )
 
  densityplot(~ ., fs3, channels=c("FL2-H", "FL3-H"))
  
  xyplot(`FSC-H` ~ `FL2-H`, data=fs3, filter=rgate1);
  xyplot(`SSC-H` ~ `FSC-H`, data=fs3, filter=rgate1);
-#dev.off()
- 
+
